@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email                   = 'DrSayre2002@yahoo.com'
   s.files                   = ['lib/magic_8_ball.rb']
   s.homepage                =
-    'http://rubygems.org/gems/magic_8_ball'
+    'https://github.com/DrSayre/magic_8_ball'
   s.license                 = 'MIT'
   s.required_ruby_verseion  = '>= 1.9.1'
 end
