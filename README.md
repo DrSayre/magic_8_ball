@@ -5,7 +5,7 @@
 RubyGem that gives a random Magic 8-Ball response
 
 ## How to Use
-* Install
+Install
 ```ruby
 gem install magic_8_ball
 ```
