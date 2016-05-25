@@ -10,22 +10,22 @@ RubyGem that gives a random Magic 8-Ball response
 gem install magic_8_ball
 ```
 
-* Random Answer
+Random Answer
 ```ruby
 Magic8Ball.answer
 ```
 
-* Random Positive Answer
+Random Positive Answer
 ```ruby
 Magic8Ball.positive_answer
 ```
 
-* Random Negative Answer
+Random Negative Answer
 ```ruby
 Magic8Ball.negative_answer
 ```
 
-* Random Neutral Answer
+Random Neutral Answer
 ```ruby
 Magic8Ball.neutral_answer
 ```
