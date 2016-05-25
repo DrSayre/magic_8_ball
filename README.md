@@ -5,27 +5,27 @@
 RubyGem that gives a random Magic 8-Ball response
 
 ## How to Use
-1. Install
+* Install
 ```ruby
 gem install magic_8_ball
 ```
 
-2. Random Answer
+* Random Answer
 ```ruby
 Magic8Ball.answer
 ```
 
-3. Random Positive Answer
+* Random Positive Answer
 ```ruby
 Magic8Ball.positive_answer
 ```
 
-4. Random Negative Answer
+* Random Negative Answer
 ```ruby
 Magic8Ball.negative_answer
 ```
 
-5. Random Neutral Answer
+* Random Neutral Answer
 ```ruby
 Magic8Ball.neutral_answer
 ```
